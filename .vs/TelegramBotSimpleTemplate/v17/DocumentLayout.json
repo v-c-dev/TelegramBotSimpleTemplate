@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GithubVictorDev\\TelegramBotSimpleTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0293807-9918-4279-A572-751C0E898963}|TelegramBotSimpleTemplate.csproj|c:\\users\\lenovo\\documents\\githubvictordev\\telegrambotsimpletemplate\\services\\botservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0293807-9918-4279-A572-751C0E898963}|TelegramBotSimpleTemplate.csproj|solutionrelative:services\\botservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0293807-9918-4279-A572-751C0E898963}|TelegramBotSimpleTemplate.csproj|c:\\users\\lenovo\\documents\\githubvictordev\\telegrambotsimpletemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0293807-9918-4279-A572-751C0E898963}|TelegramBotSimpleTemplate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0293807-9918-4279-A572-751C0E898963}|TelegramBotSimpleTemplate.csproj|c:\\users\\lenovo\\documents\\githubvictordev\\telegrambotsimpletemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0293807-9918-4279-A572-751C0E898963}|TelegramBotSimpleTemplate.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GithubVictorDev\\TelegramBotSimpleTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GithubVictorDev\\TelegramBotSimpleTemplate\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:56:07.442Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BotService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GithubVictorDev\\TelegramBotSimpleTemplate\\Services\\BotService.cs",
+              "RelativeDocumentMoniker": "Services\\BotService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GithubVictorDev\\TelegramBotSimpleTemplate\\Services\\BotService.cs",
+              "RelativeToolTip": "Services\\BotService.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwGQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:55:33.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GithubVictorDev\\TelegramBotSimpleTemplate\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GithubVictorDev\\TelegramBotSimpleTemplate\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T01:39:16.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
